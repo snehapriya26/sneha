@@ -1,0 +1,110 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-homepage-query-tsx-7615c09efdecf4d96b3a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-projects-query-tsx-c3af13d265a01cac2198.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-8c2ab0a486253a9781de.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-page-query-tsx-cd067d7db31aef321d9d.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-jsx-5a304f364bae12067e3c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-2a42e6b56959c44686d5.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-abfc5b595db6d3f8d208.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-733d5c829ac3b3d95297.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-75c52b908d0e311a8873.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/sneha/
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-homepage-query-tsx-7615c09efdecf4d96b3a.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/projects
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-projects-query-tsx-c3af13d265a01cac2198.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/projects/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/label_s&p
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-8c2ab0a486253a9781de.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/label_s&p/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/label_sp
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-project-query-tsx-8c2ab0a486253a9781de.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/label_sp/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/about
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-page-query-tsx-cd067d7db31aef321d9d.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/art
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-page-query-tsx-cd067d7db31aef321d9d.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/art/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/gallery
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---node-modules-lekoarts-gatsby-theme-jodie-core-src-templates-page-query-tsx-cd067d7db31aef321d9d.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/gallery/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/404/
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---src-pages-404-jsx-5a304f364bae12067e3c.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/404.html
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/6476cda42872323cd1aa9f4d84b41ebe6f80b3f7-e8bf3f3e6fd14076dd49.js>; rel=preload; as=script
+  Link: </sneha/component---src-pages-404-jsx-5a304f364bae12067e3c.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/sneha/offline-plugin-app-shell-fallback/
+  Link: </sneha/webpack-runtime-abfc5b595db6d3f8d208.js>; rel=preload; as=script
+  Link: </sneha/framework-733d5c829ac3b3d95297.js>; rel=preload; as=script
+  Link: </sneha/app-75c52b908d0e311a8873.js>; rel=preload; as=script
+  Link: </sneha/component---cache-caches-gatsby-plugin-offline-app-shell-js-2a42e6b56959c44686d5.js>; rel=preload; as=script
+  Link: </sneha/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sneha/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
