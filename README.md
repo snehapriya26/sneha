@@ -25,7 +25,7 @@
 Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects. Using the Gatsby Theme [`@lekoarts/gatsby-theme-jodie`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-jodie).
 
 [**Demo Website**](https://jodie.lekoarts.de)<br>
-[**Website**](https://snehapriyacv.gatsbyjs.io/)
+[**Website**](https://snehapriya.gatsbyjs.io/)
 
 Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=jodie&utm_medium=Starter).
 
